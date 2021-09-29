@@ -1,0 +1,1 @@
+This is where we are writing a file to check how useful it can be on the web. This is a vanilla text file.
